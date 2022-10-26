@@ -18,7 +18,7 @@ bottoneForm.addEventListener("click",()=> GeneratorPsw());
     outputSpan.innerHTML=` ${outputText}21`;
     boxOutput.style="visibility: visible";
     counter++;
-    if(counter>2){
+    if(counter==2){
         alert("Accidenti hai parecchie cose dal tenere al sicuro");
     }
 
