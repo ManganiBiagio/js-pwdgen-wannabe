@@ -20,9 +20,5 @@ bottoneForm.addEventListener("click",()=> GeneratorPsw());
     counter++;
     if(counter==2){
         alert("Accidenti hai parecchie cose dal tenere al sicuro");
-    }
-
-
-    
-    
+    } 
 }
