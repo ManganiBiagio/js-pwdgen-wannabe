@@ -13,7 +13,7 @@ bottoneForm.addEventListener("click",()=> GeneratorPsw());
  function GeneratorPsw(){
     let outputText=inputName.value+inputCognome.value+inputColore.value;
     console.log(outputSpan);
-    outputSpan.innerHTML=` ${outputText}`;
+    outputSpan.innerHTML=` ${outputText}21`;
     
     
 }
